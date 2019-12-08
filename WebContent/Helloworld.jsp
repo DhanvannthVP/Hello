@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Jenkins Demo</title>
+<title>XLR Demo</title>
 </head>
 <body>
-This is first jenkin project by integrating jenkins with XLR
+This is first jenkin project by integrating jenkins with XLR. Triggering the jenkin job through XLR
 </body>
 </html>
