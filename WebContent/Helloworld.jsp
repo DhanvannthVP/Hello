@@ -7,7 +7,6 @@
 <title>Jenkins Demo</title>
 </head>
 <body>
-This is first jenkin project by integrating with Github and MAven and running through jenkin slave
-
+This is first jenkin project by integrating jenkins with XLR
 </body>
 </html>
