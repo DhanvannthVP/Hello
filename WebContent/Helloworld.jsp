@@ -7,6 +7,6 @@
 <title>XLR Demo</title>
 </head>
 <body>
-This is first setup in Azure Devops
+This is first setup in Azure Devops to connect with repos
 </body>
 </html>
