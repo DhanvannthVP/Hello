@@ -7,6 +7,6 @@
 <title>XLR Demo</title>
 </head>
 <body>
-This is first jenkin project by integrating jenkins with XLR. Triggering the jenkin job through XLR
+This is first setup in Azure Devops
 </body>
 </html>
